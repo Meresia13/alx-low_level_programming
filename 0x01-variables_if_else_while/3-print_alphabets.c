@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main -main block
  * Description: Prints the alpabet in lowercase
