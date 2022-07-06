@@ -31,10 +31,7 @@ _putchar(':');
 _putchar((j / 10) + '0');
 _putchar((j % 10) + '0');
 }
-_putchar(i);
-_putchar(':');
-_putchar(j);
-}
 _putchar('\n');
+}
 }
 }
