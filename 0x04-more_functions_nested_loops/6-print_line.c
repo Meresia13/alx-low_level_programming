@@ -4,7 +4,6 @@
  * print_line - printing line
  * @n: integer patameters
  */
-
 void print_line(int n)
 {
 	int x;
