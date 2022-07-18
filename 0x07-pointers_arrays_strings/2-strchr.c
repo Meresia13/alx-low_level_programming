@@ -4,11 +4,7 @@
  * _strchr - main function
  * @s: Pointer to the string
  * @c: a character to locate the string
- *
- * Description: This function locates a character in a string
- *
- * Return: a pointer to the first occurrence of the charater c
- * in the string s, or NULL if the character is not found
+ * Return: a string
  */
 
 char *_strchr(char *s, char c)
