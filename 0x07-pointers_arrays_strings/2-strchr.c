@@ -13,13 +13,18 @@
 
 char *_strchr(char *s, char c)
 {
-	while (*s)
+	int a;
+
+	while(1)
 	{
-		if (*s == c)
-		{
-			return (s);
-		}
-		s++;
+	a = *s++;
+	if (a == c)
+	{
+	(return (s -1);
 	}
-	return (!c ? s : NULL);
+	if (a == 0)
+	{
+	return (NULL);
+	}
+	}
 }
