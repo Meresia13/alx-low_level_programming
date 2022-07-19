@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * *_strchr - main function.
  * @s: Pointer to the string.
