@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - this function adds positive numbers
@@ -27,6 +28,6 @@ int main(int argc, char *argv[])
 		num = atoi(argv[k]);
 		result += num;
 	}
-	printf("%d\n", sum);
+	printf("%d\n", result);
 	return (0);
 }
