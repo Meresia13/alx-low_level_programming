@@ -25,6 +25,7 @@ int op_sub(int a, int b)
 }
 /**
  * op_mul - Product of two integers
+ *
  * @a: Integer 1
  * @b: Integer 2
  *
